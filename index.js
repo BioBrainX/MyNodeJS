@@ -14,7 +14,7 @@ const {
 } = require('./libs/AI');
 
 const prompt = `
-explain how this equation is true
-(ab+10b)÷10=b(1+a/10)
+1 tiles = 11 cm
+13 × 8 × 6 tiles = ?m³
 `;
 GeminiAI(prompt);
